@@ -1,22 +1,22 @@
-# Building a Responsive Navigation Menu Using HTML, CSS, and JavaScript
+# Responsive Navigation Menu Tutorial
 
-**Author**: Quinn Howald  
+**Author**: Quinn Howald
 
-## Overview  
-This tutorial will teach you how to create a responsive navigation menu from scratch using HTML, CSS, and JavaScript. The final menu will be mobile-friendly, featuring a "hamburger" toggle for small screens. You'll learn how to structure the menu with HTML, style it with CSS for responsiveness, and add interactivity with JavaScript.  
+## Overview
+This tutorial teaches you how to create a responsive navigation menu using HTML, CSS, and JavaScript. The final menu is mobile-friendly, with a "hamburger" toggle for small screens.
 
-## Target Audience  
-This tutorial is designed for:
+## Target Audience
 - Beginners with basic knowledge of HTML and CSS.
-- Anyone new to JavaScript looking for a hands-on project.
-- Students or hobbyists interested in web development.  
+- Those new to JavaScript looking for a hands-on project.
 
-## Table of Contents  
-- [1. Setting Up the Project](setup.md)
-- [2. Structuring with HTML](html.md)
-- [3. Styling with CSS](css.md)
-- [4. Adding JavaScript](javascript.md)
-- [5. Final Touches](final.md)  
+## Files in This Project
+- `index.html`: Contains the structure of the menu.
+- `style.css`: Contains the styling for desktop and mobile screens.
+- `script.js`: Adds interactivity to the menu.
 
-## Purpose  
-This tutorial will not only build your technical skills but also serve as a practical introduction to responsive design principles.  
+## Steps
+1. [Setting Up the Project](setup.md)
+2. [Structuring with HTML](html.md)
+3. [Styling with CSS](css.md)
+4. [Adding JavaScript](javascript.md)
+5. [Final Touches](final.md)
